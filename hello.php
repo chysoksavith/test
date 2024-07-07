@@ -10,6 +10,6 @@ class Fruit
     }
     public function intro()
     {
-        echo "The fruit is {$this->name} and the color is {$this->color}.";
+        echo "The fruit is asdfsadf{$this->name} and the color is {$this->color}.";
     }
 }
